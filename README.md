@@ -17,7 +17,6 @@ A simple, interactive, browser-based image editor built using **HTML, CSS, and V
 - **Multiple Image Effects:** Includes controls for:
   - Brightness
   - Contrast
-  - Exposure
   - Saturation
   - Hue Rotation
   - Blur
@@ -56,7 +55,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/MonaLisa-20-04/Image-Editor
 ```
 
 ### 2. Navigate to the Project Directory
